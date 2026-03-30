@@ -4,19 +4,19 @@ Roll Number: 24MIM10062
 Chosen Software: Git (Version Control System)  
 
 ## Project Overview
-[cite_start]This repository contains the practical shell scripting component for the OSS NGMC Course Capstone Project[cite: 4, 6]. [cite_start]The project involves a structured audit of **Git**, focusing on its open-source philosophy, GPL v2 licensing, and its footprint within a Linux environment [cite: 12-13].
+This repository contains the practical shell scripting component for the OSS NGMC Course Capstone Project. The project involves a structured audit of **Git**, focusing on its open-source philosophy, GPL v2 licensing, and its footprint within a Linux environment.
 
 ## Shell Script Tasks
-[cite_start]The following five scripts demonstrate core Linux automation and command-line skills [cite: 14-15]:
+The following five scripts demonstrate core Linux automation and command-line skills :
 
-1.  [cite_start]**script1.sh (System Identity Report):** Displays the Linux distribution, kernel version, current user, and system uptime [cite: 93-97].
-2.  [cite_start]**script2.sh (FOSS Package Inspector):** Checks if Git is installed and retrieves version and license metadata using `dpkg` [cite: 125-128].
-3.  [cite_start]**script3.sh (Disk and Permission Auditor):** Loops through key system directories to report disk usage and access permissions [cite: 145-147].
-4.  [cite_start]**script4.sh (Log File Analyzer):** Scans system log files line-by-line to count occurrences of specific keywords (e.g., 'error' or 'update') [cite: 163-164].
-5.  [cite_start]**script5.sh (OSS Manifesto Generator):** An interactive script that generates a personalized open-source philosophy statement based on user input [cite: 185-186].
+1.  **script1.sh (System Identity Report):** Displays the Linux distribution, kernel version, current user, and system uptime.
+2.  **script2.sh (FOSS Package Inspector):** Checks if Git is installed and retrieves version and license metadata using `dpkg`.
+3.  **script3.sh (Disk and Permission Auditor):** Loops through key system directories to report disk usage and access permissions.
+4.  **script4.sh (Log File Analyzer):** Scans system log files line-by-line to count occurrences of specific keywords (e.g., 'error' or 'update').
+5.  **script5.sh (OSS Manifesto Generator):** An interactive script that generates a personalized open-source philosophy statement based on user input.
 
 ## Instructions to Run
-[cite_start]To execute these scripts on a Linux system (Ubuntu/Debian recommended)[cite: 92]:
+To execute these scripts on a Linux system (Ubuntu/Debian recommended):
 
 1.  **Clone the Repo:** `git clone https://github.com/SreehariShinod/oss-audit-24mim10062.git`
 2.  **Navigate to Directory:** `cd oss-audit-24mim10062`
@@ -28,7 +28,7 @@ Chosen Software: Git (Version Control System)
     * `./script5.sh`
 
 ## Dependencies
-* [cite_start]Linux Environment (WSL 2, VM, or Native)[cite: 66].
-* [cite_start]`bash` shell[cite: 101].
-* [cite_start]`dpkg` package manager[cite: 128].
-* [cite_start]Standard utilities: `grep`, `awk`, `du`, `uptime`[cite: 99, 148].
+* Linux Environment (WSL 2, VM, or Native).
+* `bash` shell.
+* `dpkg` package manager.
+* Standard utilities: `grep`, `awk`, `du`, `uptime`.
