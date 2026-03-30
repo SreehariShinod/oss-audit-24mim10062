@@ -1,0 +1,5 @@
+Open Source Manifesto | Sreehari Shinod
+Generated: 30 March 2026
+----------------------------------------
+I rely on Git because it embodies Transparency.
+I contribute by building An AI-powered Student Assistant for everyone.
